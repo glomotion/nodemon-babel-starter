@@ -3,9 +3,4 @@
 		"env",
 		"stage-2",
 	],
-	"env": {
-		"test": {
-			"plugins": ["transform-es2015-modules-commonjs"],
-		}
-	}
 }
