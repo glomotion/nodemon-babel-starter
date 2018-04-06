@@ -1,0 +1,2 @@
+{"/Users/timpaul/Desktop/GIT-Repos/nodemon-babel-starter/src/sum.js": {"path":"/Users/timpaul/Desktop/GIT-Repos/nodemon-babel-starter/src/sum.js","statementMap":{"0":{"start":{"line":2,"column":2},"end":{"line":2,"column":15}}},"fnMap":{"0":{"name":"sum","decl":{"start":{"line":1,"column":24},"end":{"line":1,"column":27}},"loc":{"start":{"line":1,"column":34},"end":{"line":3,"column":1}},"line":1}},"branchMap":{},"s":{"0":1},"f":{"0":1},"b":{},"_coverageSchema":"332fd63041d2c1bcb487cc26dd0d5f7d97098a6c","hash":"e29f743d026eea33a98600a804d6230681c30a24"}
+}
